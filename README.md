@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# note making application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Deployment Link
+## https://kkb-mmmut.github.io/iNote-It/
 
 ## Available Scripts
 
