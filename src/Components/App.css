@@ -1,0 +1,27 @@
+body{
+    animation: change-background 10s ease infinite;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    height:100%;
+  }
+  @keyframes change-background {
+    0% {
+      background: #d5eeff;
+    }
+    30% {
+      background: #d6fef6;
+    }
+    25% {
+        background: #ceffe4;
+      }
+    50% {
+        background: #dbfbcb;
+      }
+    75% {
+        background: #fff1d2;
+      }
+    100% {
+      background: #f1c8d0;
+    }
+  } 

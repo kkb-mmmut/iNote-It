@@ -1,0 +1,17 @@
+.icon img{
+    height: 60px;
+    width: 60px;
+    border:5px solid rgb(4, 54, 73);
+    border-radius: 50%;
+}
+.heading{
+    text-indent: 20px;
+    color: rgba(255, 255, 255, 0.923) !important;
+    font-weight: 900;
+}
+.navbar{ 
+    background-color: rgba(1, 55, 55, 0.601) !important; 
+}
+.dropdown-item{
+    cursor: pointer;
+} 
