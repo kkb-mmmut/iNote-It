@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/iNote-It/static/css/main.596bd9aa.css",
-    "main.js": "/iNote-It/static/js/main.94409fc7.js",
+    "main.js": "/iNote-It/static/js/main.29b74da4.js",
     "static/media/icon.png": "/iNote-It/static/media/icon.e774e0fa760d535de105.png",
     "index.html": "/iNote-It/index.html",
     "main.596bd9aa.css.map": "/iNote-It/static/css/main.596bd9aa.css.map",
-    "main.94409fc7.js.map": "/iNote-It/static/js/main.94409fc7.js.map"
+    "main.29b74da4.js.map": "/iNote-It/static/js/main.29b74da4.js.map"
   },
   "entrypoints": [
     "static/css/main.596bd9aa.css",
-    "static/js/main.94409fc7.js"
+    "static/js/main.29b74da4.js"
   ]
 }
